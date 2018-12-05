@@ -7,9 +7,9 @@ Cookbook:
 
 (2) Navigate to the folder containing the Shell scripts
 
-(3) Run the command, chmod ug+x ./chromeos_v70_dependencies.sh, to install the necessary dependencies  
+(3) Run the command, bash chromeos_v70_dependencies.sh, to install the necessary dependencies  
 
-(4) Run the command, chmod ug+x ./chromeos_v70_R_Rstudio.sh, to install R and Rstudio desktop
+(4) Run the command, bash chromeos_v70_R_Rstudio.sh, to install R and Rstudio desktop
 
 
 Descriptions:
